@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.inputContainer {
+    margin: 2rem auto;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.list {
+    border: 1px red dashed !important;
+}
